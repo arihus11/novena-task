@@ -1,4 +1,4 @@
-# NovenaTask
+# Novena Task
 **Simple Windows 2D application made with Unity3D for the Novena Task**
 
 **1.**
